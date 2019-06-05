@@ -1,0 +1,5 @@
+re
+numpy>=1.14.3
+scipy>=0.19.0
+tqdm>=4.11.2
+matplotlib>=2.02
